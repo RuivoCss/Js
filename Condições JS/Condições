@@ -1,0 +1,12 @@
+if (condição){
+  true
+}
+
+e/ou
+
+if (condição){
+    true
+} else {
+    false
+}
+
